@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Chiavi private create dagli esempi (non vanno mai pubblicate)
+chiave.json
+*.backup
+.lmsstate-*
+
+# Sistema operativo ed editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
